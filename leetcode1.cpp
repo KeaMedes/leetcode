@@ -11,4 +11,8 @@ public:
     int findMin(std::vector<int> &num){
 
     }
+};
+
+int main(void){
+    
 }
